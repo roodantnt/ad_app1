@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadsense_app1"]=self["webpackChunkadsense_app1"]||[]).push([[594],{709:function(n,a,e){e.r(a),e.d(a,{default:function(){return d}});var s=e(641);const u={class:"about"},t=(0,s.Lk)("h1",null,"This is an about page",-1),r=[t];function c(n,a){return(0,s.uX)(),(0,s.CE)("div",u,r)}var p=e(262);const i={},o=(0,p.A)(i,[["render",c]]);var d=o}}]);
+//# sourceMappingURL=about.17b5b527.js.map
